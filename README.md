@@ -23,6 +23,7 @@ pip -r install requirements.txt
 
 To configure E-TicketBot, you need to set up both the Paystack payment gateway and the database. This guide assumes you are using a hosted PostgreSQL 16 database.
 
+- **`TOKEN`**: Update with token received from @botfather
 #### Paystack Setup
 
 - **`SECRET_KEY`**: Update with your Paystack secret key.
