@@ -31,7 +31,7 @@ To configure E-TicketBot, you need to set up both the Paystack payment gateway a
 
 **Ticket Pricing:**
 
-Ticket prices can be adjusted based on your needs and more options can be added too
+Ticket prices can be adjusted based on your needs and more options can be added,below are the preconfigured ones.
 - **`STANDARD`**: 50
 - **`DOUBLE`**: 80
 - **`VIP`**: 120
