@@ -30,6 +30,7 @@ To configure E-TicketBot, you need to set up both the Paystack payment gateway a
 - **`CALLBACK_URL`**: Update with the URL of the server hosting this project or an ngrok port-forwarded URL. Ensure it ends with `/genv`.
 
 **Ticket Pricing:**
+Ticket prices can be adjusted based on your needs and more options can be added too
 - **`STANDARD`**: 50
 - **`DOUBLE`**: 80
 - **`VIP`**: 120
